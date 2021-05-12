@@ -16,7 +16,7 @@ function CalCulate () {
 
   if ((n1 >= 0) && (n2 >= 0)) {
     for (times = 0; times < n1; times++) {
-      anwser1 = n2 + anwser1 
+      anwser1 = n2 + anwser1
     }
   } else if ((n1 < 0) && (n2 < 0)) {
     n1 = Math.abs(n1)
